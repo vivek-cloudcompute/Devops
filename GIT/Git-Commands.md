@@ -1,4 +1,3 @@
-Here's a list of common Git commands, categorized by their purpose:
 
 ### Configuration
 
