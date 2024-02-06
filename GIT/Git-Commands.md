@@ -72,7 +72,7 @@ Here's a list of common Git commands, categorized by their purpose:
 
 		```bash
 		cd <repository_name>
-		```
+        ```
 
 
 - **`git branch`**: List, create, or delete branches.
@@ -160,4 +160,3 @@ Here's a list of common Git commands, categorized by their purpose:
   - `git stash`
   - `git stash apply`
 
-These are just some of the most commonly used Git commands. Git has a rich set of commands and options, and the choice of commands depends on the specific workflow and requirements.
