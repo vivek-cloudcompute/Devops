@@ -1,4 +1,4 @@
-
+# added comment
 ### Configuration
 
 - **`git config`**: Configure Git settings either globally or per repository.
