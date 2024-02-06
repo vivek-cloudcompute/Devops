@@ -1,5 +1,3 @@
-Here's a list of common Git commands, categorized by their purpose:
-
 ### Configuration
 
 - **`git config`**: Configure Git settings either globally or per repository.
@@ -160,3 +158,7 @@ Here's a list of common Git commands, categorized by their purpose:
   - `git stash`
   - `git stash apply`
 
+<<<<<<< HEAD
+=======
+These are just some of the most commonly used Git commands. Git has a rich set of commands and options, and the choice of commands depends on the specific workflow and requirements.
+>>>>>>> 2759427e02615c9582c4ff3bd3e034938dd16cd6
